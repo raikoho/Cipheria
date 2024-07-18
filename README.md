@@ -58,6 +58,22 @@ Run the decoder:
 python CipheriaDecoder.py
 ```
 
+### Custom Cipher
+The custom substitution cipher allows you to define your own substitution rules for each character. This is done using a key file (custom_key.txt).
+
+### Creating a Custom Key File
+The key file should be a text file where each line defines a substitution in the format original=replacement. Write and replace any symbols and letters, use different cases. For example:
+```sh
+a=w
+b=Y
+c=9
+d=k
+1=Q
+2=r
+...
+```
+Use the same key-file again to decode the text.
+
 ## Examples
 
 ### Encoding Example
