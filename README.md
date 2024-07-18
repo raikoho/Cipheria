@@ -1,6 +1,6 @@
 # Cipheria
 
-![Cipheria Logo](https://your-image-link-here.com/logo.png)
+![Cipheria Logo](Cipheria.png)
 Secure your text with elegance and simplicity
 
 **Version 1.0**
