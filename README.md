@@ -105,12 +105,8 @@ Use the same key-file again to decode the text.
 ####   Sample Output (decoded.txt):
     HELLO WORLD
 
-
-## 📦Contributing
-I am welcome contributions from the community! If you have an idea for a new feature, or have found a bug, please open an issue or submit a pull request.
-
 ## 📜License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📝Contact
-For any questions or suggestions, feel free to reach out to me on LinkedIn or open an issue on GitHub.
+I am welcome contributions from the community! If you have an idea for a new feature, or have found a bug - for any questions or suggestions, feel free to reach out to me on LinkedIn or open an issue on GitHub.
